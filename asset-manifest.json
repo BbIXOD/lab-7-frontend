@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lab-7-frontend/static/css/main.b9a32696.chunk.css",
-    "main.js": "/lab-7-frontend/static/js/main.e38aac92.chunk.js",
-    "main.js.map": "/lab-7-frontend/static/js/main.e38aac92.chunk.js.map",
+    "main.js": "/lab-7-frontend/static/js/main.9c78bd26.chunk.js",
+    "main.js.map": "/lab-7-frontend/static/js/main.9c78bd26.chunk.js.map",
     "runtime~main.js": "/lab-7-frontend/static/js/runtime~main.0915e982.js",
     "runtime~main.js.map": "/lab-7-frontend/static/js/runtime~main.0915e982.js.map",
     "static/js/2.bc929e85.chunk.js": "/lab-7-frontend/static/js/2.bc929e85.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.68d536b4.chunk.js": "/lab-7-frontend/static/js/3.68d536b4.chunk.js",
     "static/js/3.68d536b4.chunk.js.map": "/lab-7-frontend/static/js/3.68d536b4.chunk.js.map",
     "index.html": "/lab-7-frontend/index.html",
-    "precache-manifest.1562fed1ba1da511120bce7ce4829fce.js": "/lab-7-frontend/precache-manifest.1562fed1ba1da511120bce7ce4829fce.js",
+    "precache-manifest.deb877ddf1703f962d764574b5c5186b.js": "/lab-7-frontend/precache-manifest.deb877ddf1703f962d764574b5c5186b.js",
     "service-worker.js": "/lab-7-frontend/service-worker.js",
     "static/css/main.b9a32696.chunk.css.map": "/lab-7-frontend/static/css/main.b9a32696.chunk.css.map"
   }
