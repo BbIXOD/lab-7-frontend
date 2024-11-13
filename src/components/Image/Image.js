@@ -19,7 +19,7 @@ export default function Image() {
         {isImageVisible && (
           <img
             id="city-image"
-            src="/images/city.jpg"
+            src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi8EsZiEWNPfJLgen5plL-1SQypU0C9vWBK7i4ySVbYaUef-9R"
             alt="Фото міста Миколаїв. Без поняття чому не завантажилось."
             style={{
               transform: `scale(${scale})`,
