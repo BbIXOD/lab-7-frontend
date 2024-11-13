@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
-import styles from "./GoodsCard.module.css";
+import React, { Component } from 'react'
+import styles from "./GoodsCard.module.css"
 
 export default class GoodsCard extends Component {
     render() {
-        const { name, price, imageUrl } = this.props;
+        const { name, price, imageUrl } = this.props
 
         return (
             <div className={styles.goodsCard}>
@@ -11,6 +11,6 @@ export default class GoodsCard extends Component {
                 <h3 className={styles.goodsName}>Назва: {name}</h3>
                 <p className={styles.goodsPrice}>Ціна: {price}</p>
             </div>
-        );
+        )
     }
 }
